@@ -1,0 +1,374 @@
+-I- AT Command: AT+CREG?
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 73 -> OK.
+-I- Cmd: $GPRMC,171551.464,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*73
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:15:50&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=41&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.77&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.029&rs[obs]=                     
+
+-I- 14:16:00 - 14/04/2014
+-I- 14:17:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 72 -> OK.
+-I- Cmd: $GPRMC,171752.464,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*72
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:17:51&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.80&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.022&rs[obs]=                     
+
+-I- 14:18:00 - 14/04/2014
+-I- 14:19:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7D -> OK.
+-I- Cmd: $GPRMC,171953.464,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7D
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:19:52&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.72&rs[si5]=SO2 &rs[sv5]=0.12&rs[si6]=VOCs&rs[sv6]=0.014&rs[obs]=                     
+
+-I- 14:20:00 - 14/04/2014
+-I- AT Command: AT+CREG?
+-I- 14:21:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 71 -> OK.
+-I- Cmd: $GPRMC,172154.464,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*71
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:21:53&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.68&rs[si5]=SO2 &rs[sv5]=0.18&rs[si6]=VOCs&rs[sv6]=0.005&rs[obs]=                     
+
+-I- 14:22:00 - 14/04/2014
+-I- 14:23:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 72 -> OK.
+-I- Cmd: $GPRMC,172355.464,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*72
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:23:54&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.81&rs[si5]=SO2 &rs[sv5]=0.13&rs[si6]=VOCs&rs[sv6]=0.022&rs[obs]=                     
+
+-I- 14:24:00 - 14/04/2014
+-I- 14:25:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- AT Command: AT+CREG?
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 77 -> OK.
+-I- Cmd: $GPRMC,172556.464,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*77
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:25:55&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.75&rs[si5]=SO2 &rs[sv5]=0.13&rs[si6]=VOCs&rs[sv6]=0.023&rs[obs]=                     
+
+-I- 14:26:00 - 14/04/2014
+-I- 14:27:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 73 -> OK.
+-I- Cmd: $GPRMC,172757.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*73
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:27:56&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.72&rs[si5]=SO2 &rs[sv5]=0.13&rs[si6]=VOCs&rs[sv6]=0.011&rs[obs]=                     
+
+-I- 14:28:00 - 14/04/2014
+-I- 14:29:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 72 -> OK.
+-I- Cmd: $GPRMC,172958.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*72
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:29:57&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.81&rs[si5]=SO2 &rs[sv5]=0.18&rs[si6]=VOCs&rs[sv6]=0.007&rs[obs]=                     
+
+-I- 14:30:00 - 14/04/2014
+-I- AT Command: AT+CREG?
+-I- 14:31:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7A -> OK.
+-I- Cmd: $GPRMC,173159.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7A
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:31:58&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.71&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.000&rs[obs]=                     
+
+-I- 14:32:00 - 14/04/2014
+-I- 14:33:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 73 -> OK.
+-I- Cmd: $GPRMC,173400.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*73
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:33:59&rs[l-I- 14:34:00 - 14/04/2014
+at]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.74&rs[si5]=SO2 &rs[sv5]=0.14&rs[si6]=VOCs&rs[sv6]=0.010&rs[obs]=                     
+
+-I- 14:35:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- AT Command: AT+CREG?
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- 14:36:00 - 14/04/2014
+-I- Comando NMEA recibido.
+-I- Checksum = 70 -> OK.
+-I- Cmd: $GPRMC,173601.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*70
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:36:00&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.78&rs[si5]=SO2 &rs[sv5]=0.13&rs[si6]=VOCs&rs[sv6]=0.000&rs[obs]=                     
+
+-I- 14:37:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:38:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7D -> OK.
+-I- Cmd: $GPRMC,173802.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7D
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:38:01&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.76&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.020&rs[obs]=                     
+
+-I- 14:39:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:40:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 73 -> OK.
+-I- Cmd: $GPRMC,174003.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*73
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:40:02&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.81&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.015&rs[obs]=                     
+
+-I- AT Command: AT+CREG?
+-I- 14:41:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:42:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 76 -> OK.
+-I- Cmd: $GPRMC,174204.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*76
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:42:04&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.67&rs[si5]=SO2 &rs[sv5]=0.14&rs[si6]=VOCs&rs[sv6]=0.023&rs[obs]=                     
+
+-I- 14:43:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:44:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 71 -> OK.
+-I- Cmd: $GPRMC,174405.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*71
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:44:05&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.70&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.023&rs[obs]=                     
+
+-I- 14:45:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- AT Command: AT+CREG?
+-I- 14:46:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 70 -> OK.
+-I- Cmd: $GPRMC,174606.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*70
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:46:06&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.74&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.004&rs[obs]=                     
+
+-I- 14:47:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:48:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7F -> OK.
+-I- Cmd: $GPRMC,174807.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7F
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:48:07&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.70&rs[si5]=SO2 &rs[sv5]=0.18&rs[si6]=VOCs&rs[sv6]=0.027&rs[obs]=                     
+
+-I- 14:49:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:50:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 79 -> OK.
+-I- Cmd: $GPRMC,175008.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*79
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:50:08&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.85&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.009&rs[obs]=                     
+
+-I- AT Command: AT+CREG?
+-I- 14:51:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:52:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7A -> OK.
+-I- Cmd: $GPRMC,175209.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7A
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:52:09&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.72&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.019&rs[obs]=                     
+
+-I- 14:53:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:54:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 74 -> OK.
+-I- Cmd: $GPRMC,175410.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*74
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:54:10&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.80&rs[si5]=SO2 &rs[sv5]=0.14&rs[si6]=VOCs&rs[sv6]=0.071&rs[obs]=                     
+
+-I- 14:55:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- AT Command: AT+CREG?
+-I- 14:56:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 77 -> OK.
+-I- Cmd: $GPRMC,175611.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*77
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:56:11&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.70&rs[si5]=SO2 &rs[sv5]=0.15&rs[si6]=VOCs&rs[sv6]=0.006&rs[obs]=                     
+
+-I- 14:57:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 14:58:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7A -> OK.
+-I- Cmd: $GPRMC,175812.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7A
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 14:58:12&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.75&rs[si5]=SO2 &rs[sv5]=0.14&rs[si6]=VOCs&rs[sv6]=0.015&rs[obs]=                     
+
+-I- 14:59:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 15:00:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 79 -> OK.
+-I- Cmd: $GPRMC,180013.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*79
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 15:00:13&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.82&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.028&rs[obs]=                     
+
+-I- AT Command: AT+CREG?
+-I- 15:01:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 15:02:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7C -> OK.
+-I- Cmd: $GPRMC,180214.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7C
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 15:02:14&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=40&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.68&rs[si5]=SO2 &rs[sv5]=0.14&rs[si6]=VOCs&rs[sv6]=0.008&rs[obs]=                     
+
+-I- 15:03:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 15:04:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7B -> OK.
+-I- Cmd: $GPRMC,180415.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7B
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 15:04:15&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.80&rs[si5]=SO2 &rs[sv5]=0.14&rs[si6]=VOCs&rs[sv6]=0.038&rs[obs]=                     
+
+-I- 15:05:00 - 14/04/2014
+-I- AT Command: AT+CREG?
+-I- Ventiladores encendidos.
+-I- 15:06:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 7A -> OK.
+-I- Cmd: $GPRMC,180616.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*7A
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 15:06:16&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.78&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.027&rs[obs]=                     
+
+-I- 15:07:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 15:08:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 75 -> OK.
+-I- Cmd: $GPRMC,180817.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*75
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 15:08:17&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.76&rs[si5]=SO2 &rs[sv5]=0.16&rs[si6]=VOCs&rs[sv6]=0.067&rs[obs]=                     
+
+-I- 15:09:00 - 14/04/2014
+-I- Ventiladores encendidos.
+-I- 15:10:00 - 14/04/2014
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 73 -> OK.
+-I- Cmd: $GPRMC,181018.463,V,3438.8492,S,05829.8964,W,0.00,0.00,140414,,,N*73
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120817_2014-04-14_1406.csv.
+-I- Comando para tratamiento externo:
+rs[sn]=AQM120817&rs[ts]=2014/04/14 15:10:18&rs[lat]=S 34 38.8492&rs[lon]=W 058 29.8964&rs[si1]=Temp&rs[sv1]=206.5&rs[si2]=Hum &rs[sv2]=39&rs[si3]=Bat &rs[sv3]=181&rs[si4]=CO  &rs[sv4]=0.67&rs[si5]=SO2 &rs[sv5]=0.14&rs[si6]=VOCs&rs[sv6]=0.025&rs[obs]=                     
+
+-I- AT Command: AT+CREG?
