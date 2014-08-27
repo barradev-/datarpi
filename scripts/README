@@ -1,0 +1,4 @@
+Main binary is aqm-collect, just running it will start the data collection.
+
+It should be supervised by daemontools, runit, initng, monit, upstart, systemd
+or whatever your system provides.

@@ -1,0 +1,16 @@
+#!/bin/rc
+#
+# Usage: aqm-request data targets...
+#
+
+fn mkreq {
+  wget -t 1 -T 10 -O /dev/null -nv --post-data $*
+}
+
+@ {
+  mkreq $*
+  while (~ $status 4) {
+    aqm-reconnect
+    mkreq $*
+  }
+} &

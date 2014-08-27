@@ -1,0 +1,27 @@
+#!/bin/rc
+#
+# Usage: aqm-replay last-line-sent checksum target...
+#
+
+fn checkpoint {
+  tee >{
+    ~ $1 0 || {
+      sum=`{sed $1^q | md5sum} #`
+      if (~ $2 $sum(1)) {
+	echo @
+      } else {
+	echo 'aqm-replay: checksum error on line' $1 >[1=2]
+	kill $pid
+      }
+    }
+  } | sed -n '/^@/{:l;n;p;b l}'
+}
+
+check=$*(1 2)
+shift 2
+
+sed '/^rs/!d;s/ /%20/g' |
+checkpoint $check |
+# FIXME: add rolling checkpoints to a journal so we can later recover
+xargs -I '{}' -- aqm-request '{}' $*
+exit $status($#status)

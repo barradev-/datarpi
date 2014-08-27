@@ -1,0 +1,8 @@
+#!/bin/rc
+# FIXME: implement!
+sleep 5
+exit 0
+gw=`{route -n | sed '/^0/!d;s/[^ ]* *//;s/ .*//;q'}
+if (! ping -c 1 $gw >/dev/null) {
+	exit 0
+}
