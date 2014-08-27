@@ -4,8 +4,7 @@
 #
 
 targets=(
-	http://127.0.0.1
-	http://ccys.siafa.com.ar/aqm
+	http://telex.barradev.com.ar/aqm
 )^'/reg_sesion/create'
 
 umask 0220
@@ -19,4 +18,4 @@ exec >> $logdir/collector.log >[2=1] < $AQM_TTY(1)
 stty 115200 raw crln -echo
 
 tee -a $logdir/device.log |
-aqm-replay 0 0 $targets
+./aqm-replay 0 0 $targets
