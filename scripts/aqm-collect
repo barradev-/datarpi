@@ -12,10 +12,10 @@ umask 0220
 logdir=/var/log/aqm
 mkdir -p $logdir
 
-AQM_TTY=($AQM_TTY /dev/ttyAMA0)
+AQM_TTY=($AQM_TTY /dev/ttyAMA1)
 
 exec >> $logdir/collector.log >[2=1] < $AQM_TTY(1)
 stty 115200 raw crln -echo
 
 tee -a $logdir/device.log |
-./aqm-replay 0 0 $targets
+aqm-replay 0 0 $targets
