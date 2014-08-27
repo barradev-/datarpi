@@ -1,4 +1,4 @@
-#!/bin/rc
+#!/usr/bin/rc
 #
 # Usage: aqm-request data targets...
 #
